@@ -1,0 +1,454 @@
+{
+  "trajects": [
+    {
+      "line": "50",
+      "from": "Isolatorweg",
+      "marker": {
+        "lat": 52.39533169795577,
+        "lng": 4.85064057678207
+      },
+
+      "to": "Gein",
+      "stops": [
+        {
+          "station": "Isolatorweg",
+          "marker": {
+            "lat": 52.39533169795577,
+            "lng": 4.85064057678207
+          },
+          "platform": "1A",
+          "departures": [
+            { "hours": 0, "minutes": [0, 15, 30, 45] },
+            { "hours": 1, "minutes": [0, 15, 30, 45] },
+            { "hours": 2, "minutes": [0, 15, 30, 45] },
+            { "hours": 3, "minutes": [0, 15, 30, 45] },
+            { "hours": 4, "minutes": [0, 15, 30, 45] },
+            { "hours": 5, "minutes": [0, 15, 30, 45] },
+            { "hours": 6, "minutes": [0, 15, 30, 45] },
+            { "hours": 7, "minutes": [0, 15, 30, 45] },
+            { "hours": 8, "minutes": [0, 15, 30, 45] },
+            { "hours": 9, "minutes": [0, 15, 30, 45] },
+            { "hours": 10, "minutes": [0, 15, 30, 45] },
+            { "hours": 11, "minutes": [0, 15, 30, 45] },
+            { "hours": 12, "minutes": [0, 15, 30, 45] },
+            { "hours": 13, "minutes": [0, 15, 30, 45] },
+            { "hours": 14, "minutes": [0, 15, 30, 45] },
+            { "hours": 15, "minutes": [0, 15, 30, 45] },
+            { "hours": 16, "minutes": [0, 15, 30, 45] },
+            { "hours": 17, "minutes": [0, 15, 30, 45] },
+            { "hours": 18, "minutes": [0, 15, 30, 45] },
+            { "hours": 19, "minutes": [0, 15, 30, 45] },
+            { "hours": 20, "minutes": [0, 15, 30, 45] },
+            { "hours": 21, "minutes": [0, 15, 30, 45] },
+            { "hours": 22, "minutes": [0, 15, 30, 45] },
+            { "hours": 23, "minutes": [0, 15, 30, 45] }
+          ],
+          "ETT": 10
+        },
+        {
+          "station": "Sloterdijk",
+          "marker": {
+            "lat": 52.38922462596897,
+            "lng": 4.839402982335463
+          },
+
+          "platform": "1A",
+          "departures": [
+            { "hours": 0, "minutes": [0, 15, 30, 45] },
+            { "hours": 1, "minutes": [0, 15, 30, 45] },
+            { "hours": 2, "minutes": [0, 15, 30, 45] },
+            { "hours": 3, "minutes": [0, 15, 30, 45] },
+            { "hours": 4, "minutes": [0, 15, 30, 45] },
+            { "hours": 5, "minutes": [0, 15, 30, 45] },
+            { "hours": 6, "minutes": [0, 15, 30, 45] },
+            { "hours": 7, "minutes": [0, 15, 30, 45] },
+            { "hours": 8, "minutes": [0, 15, 30, 45] },
+            { "hours": 9, "minutes": [0, 15, 30, 45] },
+            { "hours": 10, "minutes": [0, 15, 30, 45] },
+            { "hours": 11, "minutes": [0, 15, 30, 45] },
+            { "hours": 12, "minutes": [0, 15, 30, 45] },
+            { "hours": 13, "minutes": [0, 15, 30, 45] },
+            { "hours": 14, "minutes": [0, 15, 30, 45] },
+            { "hours": 15, "minutes": [0, 15, 30, 45] },
+            { "hours": 16, "minutes": [0, 15, 30, 45] },
+            { "hours": 17, "minutes": [0, 15, 30, 45] },
+            { "hours": 18, "minutes": [0, 15, 30, 45] },
+            { "hours": 19, "minutes": [0, 15, 30, 45] },
+            { "hours": 20, "minutes": [0, 15, 30, 45] },
+            { "hours": 21, "minutes": [0, 15, 30, 45] },
+            { "hours": 22, "minutes": [0, 15, 30, 45] },
+            { "hours": 23, "minutes": [0, 15, 30, 45] }
+          ],
+          "ETT": 15
+        },
+        {
+          "station": "Burg.de Vlugtlaan",
+          "marker": {
+            "lat": 52.37996767230168,
+            "lng": 4.8390257185123735
+          },
+          "platform": "1A",
+          "departures": [
+            { "hours": 0, "minutes": [0, 15, 30, 45] },
+            { "hours": 1, "minutes": [0, 15, 30, 45] },
+            { "hours": 2, "minutes": [0, 15, 30, 45] },
+            { "hours": 3, "minutes": [0, 15, 30, 45] },
+            { "hours": 4, "minutes": [0, 15, 30, 45] },
+            { "hours": 5, "minutes": [0, 15, 30, 45] },
+            { "hours": 6, "minutes": [0, 15, 30, 45] },
+            { "hours": 7, "minutes": [0, 15, 30, 45] },
+            { "hours": 8, "minutes": [0, 15, 30, 45] },
+            { "hours": 9, "minutes": [0, 15, 30, 45] },
+            { "hours": 10, "minutes": [0, 15, 30, 45] },
+            { "hours": 11, "minutes": [0, 15, 30, 45] },
+            { "hours": 12, "minutes": [0, 15, 30, 45] },
+            { "hours": 13, "minutes": [0, 15, 30, 45] },
+            { "hours": 14, "minutes": [0, 15, 30, 45] },
+            { "hours": 15, "minutes": [0, 15, 30, 45] },
+            { "hours": 16, "minutes": [0, 15, 30, 45] },
+            { "hours": 17, "minutes": [0, 15, 30, 45] },
+            { "hours": 18, "minutes": [0, 15, 30, 45] },
+            { "hours": 19, "minutes": [0, 15, 30, 45] },
+            { "hours": 20, "minutes": [0, 15, 30, 45] },
+            { "hours": 21, "minutes": [0, 15, 30, 45] },
+            { "hours": 22, "minutes": [0, 15, 30, 45] },
+            { "hours": 23, "minutes": [0, 15, 30, 45] }
+          ],
+          "ETT": 15
+        },
+        {
+          "station": "Jan v.Galenstraat",
+          "marker": {
+            "lat": 52.373173453167624,
+            "lng": 4.836384318512354
+          },
+          "platform": "1A",
+          "departures": [
+            { "hours": 0, "minutes": [0, 15, 30, 45] },
+            { "hours": 1, "minutes": [0, 15, 30, 45] },
+            { "hours": 2, "minutes": [0, 15, 30, 45] },
+            { "hours": 3, "minutes": [0, 15, 30, 45] },
+            { "hours": 4, "minutes": [0, 15, 30, 45] },
+            { "hours": 5, "minutes": [0, 15, 30, 45] },
+            { "hours": 6, "minutes": [0, 15, 30, 45] },
+            { "hours": 7, "minutes": [0, 15, 30, 45] },
+            { "hours": 8, "minutes": [0, 15, 30, 45] },
+            { "hours": 9, "minutes": [0, 15, 30, 45] },
+            { "hours": 10, "minutes": [0, 15, 30, 45] },
+            { "hours": 11, "minutes": [0, 15, 30, 45] },
+            { "hours": 12, "minutes": [0, 15, 30, 45] },
+            { "hours": 13, "minutes": [0, 15, 30, 45] },
+            { "hours": 14, "minutes": [0, 15, 30, 45] },
+            { "hours": 15, "minutes": [0, 15, 30, 45] },
+            { "hours": 16, "minutes": [0, 15, 30, 45] },
+            { "hours": 17, "minutes": [0, 15, 30, 45] },
+            { "hours": 18, "minutes": [0, 15, 30, 45] },
+            { "hours": 19, "minutes": [0, 15, 30, 45] },
+            { "hours": 20, "minutes": [0, 15, 30, 45] },
+            { "hours": 21, "minutes": [0, 15, 30, 45] },
+            { "hours": 22, "minutes": [0, 15, 30, 45] },
+            { "hours": 23, "minutes": [0, 15, 30, 45] }
+          ],
+          "ETT": 15
+        },
+        {
+          "station": "Amstelveen",
+          "marker": {
+            "lat": 52.29884548845782,
+            "lng": 4.859819346463948
+          },
+          "platform": "1B",
+          "departures": [
+            { "hours": 0, "minutes": [0, 15, 30, 45] },
+            { "hours": 1, "minutes": [0, 15, 30, 45] },
+            { "hours": 2, "minutes": [0, 15, 30, 45] },
+            { "hours": 3, "minutes": [0, 15, 30, 45] },
+            { "hours": 4, "minutes": [0, 15, 30, 45] },
+            { "hours": 5, "minutes": [0, 15, 30, 45] },
+            { "hours": 6, "minutes": [0, 15, 30, 45] },
+            { "hours": 7, "minutes": [0, 15, 30, 45] },
+            { "hours": 8, "minutes": [0, 15, 30, 45] },
+            { "hours": 9, "minutes": [0, 15, 30, 45] },
+            { "hours": 10, "minutes": [0, 15, 30, 45] },
+            { "hours": 11, "minutes": [0, 15, 30, 45] },
+            { "hours": 12, "minutes": [0, 15, 30, 45] },
+            { "hours": 13, "minutes": [0, 15, 30, 45] },
+            { "hours": 14, "minutes": [0, 15, 30, 45] },
+            { "hours": 15, "minutes": [0, 15, 30, 45] },
+            { "hours": 16, "minutes": [0, 15, 30, 45] },
+            { "hours": 17, "minutes": [0, 15, 30, 45] },
+            { "hours": 18, "minutes": [0, 15, 30, 45] },
+            { "hours": 19, "minutes": [0, 15, 30, 45] },
+            { "hours": 20, "minutes": [0, 15, 30, 45] },
+            { "hours": 21, "minutes": [0, 15, 30, 45] },
+            { "hours": 22, "minutes": [0, 15, 30, 45] },
+            { "hours": 23, "minutes": [0, 15, 30, 45] }
+          ],
+          "ETT": null
+        }
+      ]
+    },
+    {
+      "line": "52",
+      "from": "Noord",
+      "to": "Zuid",
+      "stops": [
+        {
+          "station": "Noord",
+          "marker": {
+            "lat": 52.40391737760277,
+            "lng": 4.85064057678207
+          },
+          "platform": "1A",
+          "departures": [
+            { "hours": 0, "minutes": [0, 15, 30, 45] },
+            { "hours": 1, "minutes": [0, 15, 30, 45] },
+            { "hours": 2, "minutes": [0, 15, 30, 45] },
+            { "hours": 3, "minutes": [0, 15, 30, 45] },
+            { "hours": 4, "minutes": [0, 15, 30, 45] },
+            { "hours": 5, "minutes": [0, 15, 30, 45] },
+            { "hours": 6, "minutes": [0, 15, 30, 45] },
+            { "hours": 7, "minutes": [0, 15, 30, 45] },
+            { "hours": 8, "minutes": [0, 15, 30, 45] },
+            { "hours": 9, "minutes": [0, 15, 30, 45] },
+            { "hours": 10, "minutes": [0, 15, 30, 45] },
+            { "hours": 11, "minutes": [0, 15, 30, 45] },
+            { "hours": 12, "minutes": [0, 15, 30, 45] },
+            { "hours": 13, "minutes": [0, 15, 30, 45] },
+            { "hours": 14, "minutes": [0, 15, 30, 45] },
+            { "hours": 15, "minutes": [0, 15, 30, 45] },
+            { "hours": 16, "minutes": [0, 15, 30, 45] },
+            { "hours": 17, "minutes": [0, 15, 30, 45] },
+            { "hours": 18, "minutes": [0, 15, 30, 45] },
+            { "hours": 19, "minutes": [0, 15, 30, 45] },
+            { "hours": 20, "minutes": [0, 15, 30, 45] },
+            { "hours": 21, "minutes": [0, 15, 30, 45] },
+            { "hours": 22, "minutes": [0, 15, 30, 45] },
+            { "hours": 23, "minutes": [0, 15, 30, 45] }
+          ],
+          "ETT": 15
+        },
+        {
+          "station": "Noorderpark",
+          "marker": {
+            "lat": 52.38920243291034,
+            "lng": 4.919528874332901
+          },
+          "platform": "1A",
+          "departures": [
+            { "hours": 0, "minutes": [0, 15, 30, 45] },
+            { "hours": 1, "minutes": [0, 15, 30, 45] },
+            { "hours": 2, "minutes": [0, 15, 30, 45] },
+            { "hours": 3, "minutes": [0, 15, 30, 45] },
+            { "hours": 4, "minutes": [0, 15, 30, 45] },
+            { "hours": 5, "minutes": [0, 15, 30, 45] },
+            { "hours": 6, "minutes": [0, 15, 30, 45] },
+            { "hours": 7, "minutes": [0, 15, 30, 45] },
+            { "hours": 8, "minutes": [0, 15, 30, 45] },
+            { "hours": 9, "minutes": [0, 15, 30, 45] },
+            { "hours": 10, "minutes": [0, 15, 30, 45] },
+            { "hours": 11, "minutes": [0, 15, 30, 45] },
+            { "hours": 12, "minutes": [0, 15, 30, 45] },
+            { "hours": 13, "minutes": [0, 15, 30, 45] },
+            { "hours": 14, "minutes": [0, 15, 30, 45] },
+            { "hours": 15, "minutes": [0, 15, 30, 45] },
+            { "hours": 16, "minutes": [0, 15, 30, 45] },
+            { "hours": 17, "minutes": [0, 15, 30, 45] },
+            { "hours": 18, "minutes": [0, 15, 30, 45] },
+            { "hours": 19, "minutes": [0, 15, 30, 45] },
+            { "hours": 20, "minutes": [0, 15, 30, 45] },
+            { "hours": 21, "minutes": [0, 15, 30, 45] },
+            { "hours": 22, "minutes": [0, 15, 30, 45] },
+            { "hours": 23, "minutes": [0, 15, 30, 45] }
+          ],
+          "ETT": 15
+        },
+        {
+          "station": "Centraal Station",
+          "marker": {
+            "lat": 52.38009629628736,
+            "lng": 4.902015760240339
+          },
+          "platform": "1A",
+          "departures": [
+            { "hours": 0, "minutes": [0, 15, 30, 45] },
+            { "hours": 1, "minutes": [0, 15, 30, 45] },
+            { "hours": 2, "minutes": [0, 15, 30, 45] },
+            { "hours": 3, "minutes": [0, 15, 30, 45] },
+            { "hours": 4, "minutes": [0, 15, 30, 45] },
+            { "hours": 5, "minutes": [0, 15, 30, 45] },
+            { "hours": 6, "minutes": [0, 15, 30, 45] },
+            { "hours": 7, "minutes": [0, 15, 30, 45] },
+            { "hours": 8, "minutes": [0, 15, 30, 45] },
+            { "hours": 9, "minutes": [0, 15, 30, 45] },
+            { "hours": 10, "minutes": [0, 15, 30, 45] },
+            { "hours": 11, "minutes": [0, 15, 30, 45] },
+            { "hours": 12, "minutes": [0, 15, 30, 45] },
+            { "hours": 13, "minutes": [0, 15, 30, 45] },
+            { "hours": 14, "minutes": [0, 15, 30, 45] },
+            { "hours": 15, "minutes": [0, 15, 30, 45] },
+            { "hours": 16, "minutes": [0, 15, 30, 45] },
+            { "hours": 17, "minutes": [0, 15, 30, 45] },
+            { "hours": 18, "minutes": [0, 15, 30, 45] },
+            { "hours": 19, "minutes": [0, 15, 30, 45] },
+            { "hours": 20, "minutes": [0, 15, 30, 45] },
+            { "hours": 21, "minutes": [0, 15, 30, 45] },
+            { "hours": 22, "minutes": [0, 15, 30, 45] },
+            { "hours": 23, "minutes": [0, 15, 30, 45] }
+          ],
+          "ETT": 15
+        },
+        {
+          "station": "Rokin",
+          "marker": {
+            "lat": 52.368219633427216,
+            "lng": 4.8943105137425365
+          },
+          "platform": "1A",
+          "departures": [
+            { "hours": 0, "minutes": [0, 15, 30, 45] },
+            { "hours": 1, "minutes": [0, 15, 30, 45] },
+            { "hours": 2, "minutes": [0, 15, 30, 45] },
+            { "hours": 3, "minutes": [0, 15, 30, 45] },
+            { "hours": 4, "minutes": [0, 15, 30, 45] },
+            { "hours": 5, "minutes": [0, 15, 30, 45] },
+            { "hours": 6, "minutes": [0, 15, 30, 45] },
+            { "hours": 7, "minutes": [0, 15, 30, 45] },
+            { "hours": 8, "minutes": [0, 15, 30, 45] },
+            { "hours": 9, "minutes": [0, 15, 30, 45] },
+            { "hours": 10, "minutes": [0, 15, 30, 45] },
+            { "hours": 11, "minutes": [0, 15, 30, 45] },
+            { "hours": 12, "minutes": [0, 15, 30, 45] },
+            { "hours": 13, "minutes": [0, 15, 30, 45] },
+            { "hours": 14, "minutes": [0, 15, 30, 45] },
+            { "hours": 15, "minutes": [0, 15, 30, 45] },
+            { "hours": 16, "minutes": [0, 15, 30, 45] },
+            { "hours": 17, "minutes": [0, 15, 30, 45] },
+            { "hours": 18, "minutes": [0, 15, 30, 45] },
+            { "hours": 19, "minutes": [0, 15, 30, 45] },
+            { "hours": 20, "minutes": [0, 15, 30, 45] },
+            { "hours": 21, "minutes": [0, 15, 30, 45] },
+            { "hours": 22, "minutes": [0, 15, 30, 45] },
+            { "hours": 23, "minutes": [0, 15, 30, 45] }
+          ],
+          "ETT": 15
+        },
+        {
+          "station": "Vijzelgracht",
+          "marker": {
+            "lat": 52.35975362786344,
+            "lng": 4.8909836203802515
+          },
+          "platform": "1A",
+          "departures": [
+            { "hours": 0, "minutes": [0, 15, 30, 45] },
+            { "hours": 1, "minutes": [0, 15, 30, 45] },
+            { "hours": 2, "minutes": [0, 15, 30, 45] },
+            { "hours": 3, "minutes": [0, 15, 30, 45] },
+            { "hours": 4, "minutes": [0, 15, 30, 45] },
+            { "hours": 5, "minutes": [0, 15, 30, 45] },
+            { "hours": 6, "minutes": [0, 15, 30, 45] },
+            { "hours": 7, "minutes": [0, 15, 30, 45] },
+            { "hours": 8, "minutes": [0, 15, 30, 45] },
+            { "hours": 9, "minutes": [0, 15, 30, 45] },
+            { "hours": 10, "minutes": [0, 15, 30, 45] },
+            { "hours": 11, "minutes": [0, 15, 30, 45] },
+            { "hours": 12, "minutes": [0, 15, 30, 45] },
+            { "hours": 13, "minutes": [0, 15, 30, 45] },
+            { "hours": 14, "minutes": [0, 15, 30, 45] },
+            { "hours": 15, "minutes": [0, 15, 30, 45] },
+            { "hours": 16, "minutes": [0, 15, 30, 45] },
+            { "hours": 17, "minutes": [0, 15, 30, 45] },
+            { "hours": 18, "minutes": [0, 15, 30, 45] },
+            { "hours": 19, "minutes": [0, 15, 30, 45] },
+            { "hours": 20, "minutes": [0, 15, 30, 45] },
+            { "hours": 21, "minutes": [0, 15, 30, 45] },
+            { "hours": 22, "minutes": [0, 15, 30, 45] },
+            { "hours": 23, "minutes": [0, 15, 30, 45] }
+          ],
+          "ETT": 15
+        },
+        {
+          "station": "De Pijp",
+          "marker": {
+            "lat": 52.3538824406539,
+            "lng": 4.893071851834592
+          },
+          "platform": "1A",
+          "departures": [
+            { "hours": 0, "minutes": [0, 15, 30, 45] },
+            { "hours": 1, "minutes": [0, 15, 30, 45] },
+            { "hours": 2, "minutes": [0, 15, 30, 45] },
+            { "hours": 3, "minutes": [0, 15, 30, 45] },
+            { "hours": 4, "minutes": [0, 15, 30, 45] },
+            { "hours": 5, "minutes": [0, 15, 30, 45] },
+            { "hours": 6, "minutes": [0, 15, 30, 45] },
+            { "hours": 7, "minutes": [0, 15, 30, 45] },
+            { "hours": 8, "minutes": [0, 15, 30, 45] },
+            { "hours": 9, "minutes": [0, 15, 30, 45] },
+            { "hours": 10, "minutes": [0, 15, 30, 45] },
+            { "hours": 11, "minutes": [0, 15, 30, 45] },
+            { "hours": 12, "minutes": [0, 15, 30, 45] },
+            { "hours": 13, "minutes": [0, 15, 30, 45] },
+            { "hours": 14, "minutes": [0, 15, 30, 45] },
+            { "hours": 15, "minutes": [0, 15, 30, 45] },
+            { "hours": 16, "minutes": [0, 15, 30, 45] },
+            { "hours": 17, "minutes": [0, 15, 30, 45] },
+            { "hours": 18, "minutes": [0, 15, 30, 45] },
+            { "hours": 19, "minutes": [0, 15, 30, 45] },
+            { "hours": 20, "minutes": [0, 15, 30, 45] },
+            { "hours": 21, "minutes": [0, 15, 30, 45] },
+            { "hours": 22, "minutes": [0, 15, 30, 45] },
+            { "hours": 23, "minutes": [0, 15, 30, 45] }
+          ],
+          "ETT": 15
+        },
+        {
+          "station": "Europaplein",
+          "marker": {
+            "lat": 52.340587046158404,
+            "lng": 4.892881120546901
+          },
+          "platform": "1A",
+          "departures": [
+            { "hours": 0, "minutes": [0, 15, 30, 45] },
+            { "hours": 1, "minutes": [0, 15, 30, 45] },
+            { "hours": 2, "minutes": [0, 15, 30, 45] },
+            { "hours": 3, "minutes": [0, 15, 30, 45] },
+            { "hours": 4, "minutes": [0, 15, 30, 45] },
+            { "hours": 5, "minutes": [0, 15, 30, 45] },
+            { "hours": 6, "minutes": [0, 15, 30, 45] },
+            { "hours": 7, "minutes": [0, 15, 30, 45] },
+            { "hours": 8, "minutes": [0, 15, 30, 45] },
+            { "hours": 9, "minutes": [0, 15, 30, 45] },
+            { "hours": 10, "minutes": [0, 15, 30, 45] },
+            { "hours": 11, "minutes": [0, 15, 30, 45] },
+            { "hours": 12, "minutes": [0, 15, 30, 45] },
+            { "hours": 13, "minutes": [0, 15, 30, 45] },
+            { "hours": 14, "minutes": [0, 15, 30, 45] },
+            { "hours": 15, "minutes": [0, 15, 30, 45] },
+            { "hours": 16, "minutes": [0, 15, 30, 45] },
+            { "hours": 17, "minutes": [0, 15, 30, 45] },
+            { "hours": 18, "minutes": [0, 15, 30, 45] },
+            { "hours": 19, "minutes": [0, 15, 30, 45] },
+            { "hours": 20, "minutes": [0, 15, 30, 45] },
+            { "hours": 21, "minutes": [0, 15, 30, 45] },
+            { "hours": 22, "minutes": [0, 15, 30, 45] },
+            { "hours": 23, "minutes": [0, 15, 30, 45] }
+          ],
+          "ETT": 15
+        },
+        {
+          "station": "Station Zuid",
+          "marker": {
+            "lat": 52.33983126703209,
+            "lng": 4.873777351646391
+          },
+          "platform": "1A",
+          "departures": null,
+          "ETT": null
+        }
+      ]
+    }
+  ]
+}

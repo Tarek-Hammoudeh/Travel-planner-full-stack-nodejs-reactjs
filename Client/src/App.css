@@ -1,0 +1,23 @@
+.center {
+    margin: auto;
+    width: 60%;
+    border: 5px solid #FFFF00;
+    padding: 10px;
+}
+
+.col-centered {
+    float: none;
+    margin: 0 auto;
+}
+
+.switchbutton {
+    border: 0px;
+    background: transparent
+}
+
+.leaflet-container {
+    overflow: hidden;
+    height: 400px;
+    width: 1270px;
+}
+

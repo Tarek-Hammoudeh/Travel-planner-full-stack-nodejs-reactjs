@@ -1,0 +1,25 @@
+{
+  "name": "lt3-ov-app",
+  "version": "1.0.0",
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://sibrand_jansen@bitbucket.org/pt2-picit/lt3-ov-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://bitbucket.org/pt2-picit/lt3-ov-app/issues"
+  },
+  "homepage": "https://bitbucket.org/pt2-picit/lt3-ov-app#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.3"
+
+  }
+}
